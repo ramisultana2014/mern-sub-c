@@ -19,7 +19,14 @@ const reviewRouter = require("./src/routers/reviewRoutes");
 
 const app = express();
 
-app.use(helmet());
+app.use(
+  helmet.contentSecurityPolicy({
+    directives: {
+      defaultSrc: ["'self'"],
+      connectSrc: ["'self'", "https://api.bigdatacloud.net"],
+    },
+  })
+);
 //TODO:limiter is middleware fun , allow 100 request per 1 hour
 const limiter = rateLimit({
   max: 100,
