@@ -1,0 +1,179 @@
+[
+  {
+    "category": "protein",
+    "calories": 80,
+    "title": "Bacon",
+    "image": "bacon.jpg"
+  },
+  {
+    "category": "protein",
+    "calories": 180,
+    "title": "Egg",
+    "image": "egg.jpg"
+  },
+  {
+    "category": "protein",
+    "calories": 180,
+    "title": "Grilled Chicken",
+    "image": "chicken.jpg"
+  },
+  {
+    "category": "protein",
+    "calories": 150,
+    "title": "Oven Roasted Turkey",
+    "image": "turkey.jpg"
+  },
+  {
+    "category": "protein",
+    "calories": 160,
+    "title": "Pepperoni",
+    "image": "pepperoni.jpg"
+  },
+  {
+    "category": "protein",
+    "calories": 140,
+    "title": "Genoa Salami",
+    "image": "salami.jpg"
+  },
+  {
+    "category": "bread",
+    "calories": 140,
+    "title": "Toasted Flatbread",
+    "image": "bread-1.jpg"
+  },
+  {
+    "category": "bread",
+    "calories": 210,
+    "title": "Toasted Hearty Multigrain",
+    "image": "bread-2.jpg"
+  },
+  {
+    "category": "bread",
+    "calories": 250,
+    "title": "Toasted Italian Herbs & Cheese",
+    "image": "bread-3.jpg"
+  },
+  {
+    "category": "bread",
+    "calories": 210,
+    "title": "Toasted Honey Oat Bread",
+    "image": "bread-4.jpg"
+  },
+
+  {
+    "category": "cheese",
+    "calories": 40,
+    "title": "American Cheese",
+    "image": "cheese-1.jpg"
+  },
+  {
+    "category": "cheese",
+    "calories": 50,
+    "title": "Pepper Jack",
+    "image": "cheese-2.jpg"
+  },
+  {
+    "category": "cheese",
+    "calories": 50,
+    "title": "Monterey Chedda",
+    "image": "cheese-3.jpg"
+  },
+  {
+    "category": "sauces",
+    "calories": 45,
+    "title": "Oil",
+    "image": "oil.jpg"
+  },
+  {
+    "category": "sauces",
+    "calories": 0,
+    "title": "Red Wine Vinegar",
+    "image": "vinegar.jpg"
+  },
+  {
+    "category": "sauces",
+    "calories": 100,
+    "title": "Regular Mayonnaise",
+    "image": "mayonnaise.jpg"
+  },
+  {
+    "category": "sauces",
+    "calories": 10,
+    "title": "Yellow Mustard",
+    "image": "mustard.jpg"
+  },
+  {
+    "category": "sauces",
+    "calories": 60,
+    "title": "Honey Mustard",
+    "image": "honey.jpg"
+  },
+  {
+    "category": "seasonings",
+    "calories": 0,
+    "title": "Black Pepper",
+    "image": "pepper.jpg"
+  },
+  {
+    "category": "seasonings",
+    "calories": 0,
+    "title": "Salt",
+    "image": "salt.jpg"
+  },
+  {
+    "category": "seasonings",
+    "calories": 0,
+    "title": "Oregano",
+    "image": "oregano.jpg"
+  },
+  {
+    "category": "veggies",
+    "calories": 0,
+    "title": "Lettuce",
+    "image": "lettuce.jpg"
+  },
+  {
+    "category": "veggies",
+    "calories": 5,
+    "title": "Tomatoes",
+    "image": "tomatoes.jpg"
+  },
+  {
+    "category": "veggies",
+    "calories": 0,
+    "title": "Cucumbers",
+    "image": "cucumbers.jpg"
+  },
+  {
+    "category": "veggies",
+    "calories": 0,
+    "title": "Pickles",
+    "image": "pickles.jpg"
+  },
+  {
+    "category": "veggies",
+    "calories": 0,
+    "title": "Black Olives",
+    "image": "olives.jpg"
+  },
+  {
+    "category": "veggies",
+    "calories": 0,
+    "title": "Red Onions",
+    "image": "onions.jpg"
+  },
+  {
+    "category": "add-Ons",
+    "calories": 90,
+    "title": "BelGioioso® Fresh Mozzarella",
+    "image": "Mozzarella.jpg",
+    "extra": "+$1.00"
+  },
+  {
+    "category": "add-Ons",
+    "calories": 80,
+    "title": "Smashed Avocado",
+    "image": "avocado.jpg",
+    "extra": "+$1.00"
+  }
+]
