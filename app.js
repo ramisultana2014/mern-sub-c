@@ -24,7 +24,7 @@ app.use(
     directives: {
       defaultSrc: ["'self'"],
       connectSrc: ["'self'", "https://api.bigdatacloud.net"],
-      imgSrc: ["'self'", "https://example.com", "data:"], // Allow images from the specific domain
+      imgSrc: ["'self'", "*", "data:"], // Allow images from any domain
     },
   })
 );
