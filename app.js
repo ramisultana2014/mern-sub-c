@@ -24,7 +24,12 @@ app.use(
     directives: {
       defaultSrc: ["'self'"],
       connectSrc: ["'self'", "https://api.bigdatacloud.net"],
-      imgSrc: ["'self'", "*", "data:"], // Allow images from any domain
+      imgSrc: [
+        "'self'",
+        "data:",
+        "https://*.tile.openstreetmap.fr",
+        "https://unpkg.com",
+      ],
     },
   })
 );
